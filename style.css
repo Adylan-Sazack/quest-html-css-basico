@@ -1,0 +1,29 @@
+h2{
+    font-size: 40px;
+}
+
+th, td{
+    padding: 10px ;
+    text-align: center;
+}
+
+.moda-th{
+    background-color: #BB86FC;
+    color: rgb(255, 255, 255);
+}
+
+.moda-dados {
+    background-color: #424250;
+    color: rgb(255, 255, 255);
+
+}
+
+.casa-th{
+    background-color: #00C4B4;
+    color: rgb(255, 255, 255);
+}
+
+.casa-dados{
+        background-color: #424250;
+        color: rgb(255, 255, 255);
+    }
